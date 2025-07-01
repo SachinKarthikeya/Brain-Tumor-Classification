@@ -23,7 +23,7 @@ TumorScanAI is a deep learning-powered web application that performs **brain tum
 3. The model predicts the tumor type and assesses the emergency level.
 4. An AI chatbot answers user queries and helps find nearby hospitals.
 
-### Prerequisites
+## Prerequisites
 
 - Python 3.8+
 - PyTorch
@@ -32,3 +32,12 @@ TumorScanAI is a deep learning-powered web application that performs **brain tum
 - Pillow
 - python-dotenv
 - Google Generative AI SDK (`google-generativeai`)
+
+## Real-World Application
+
+This project serves as a lightweight diagnostic tool to help patients and healthcare workers:
+
+- Detect and classify brain tumors early.
+- Understand the severity and nature of the tumor.
+- Interact with an AI chatbot for guidance and information.
+- Locate nearby hospitals for further medical assistance.
